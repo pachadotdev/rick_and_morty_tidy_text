@@ -1,0 +1,2595 @@
+﻿1
+00:00:01,901 --> 00:00:02,901
+Before we begin,
+
+2
+00:00:02,902 --> 00:00:05,704
+I want to make one thing
+perfectly clear to all of you.
+
+3
+00:00:05,706 --> 00:00:08,207
+The information you're about
+to hear is top secret.
+
+4
+00:00:08,209 --> 00:00:11,143
+Unauthorized publication
+or "leaking"
+of this information
+
+5
+00:00:11,145 --> 00:00:12,711
+Would be an act
+of high treason,
+
+6
+00:00:12,713 --> 00:00:14,279
+For which you would be
+tried and convicted
+
+7
+00:00:14,281 --> 00:00:17,216
+By a secret military tribunal
+and summarily executed.
+
+8
+00:00:17,218 --> 00:00:18,884
+So no,
+miss poovey,
+
+9
+00:00:18,886 --> 00:00:20,953
+I don't think a selfie
+would be appropriate.
+
+10
+00:00:20,955 --> 00:00:23,188
+Okay I'm not. Jesus.
+
+11
+00:00:23,190 --> 00:00:25,557
+Why is she even
+in this briefing?
+
+12
+00:00:25,559 --> 00:00:27,192
+She's not allowed
+to go on missions.
+
+13
+00:00:27,194 --> 00:00:29,228
+Because she always
+stows away somehow,
+
+14
+00:00:29,230 --> 00:00:31,230
+As do figgis
+and dr. Krieger,
+
+15
+00:00:31,232 --> 00:00:33,799
+And julia gluey-dreyfus
+over there.
+
+16
+00:00:33,801 --> 00:00:35,667
+So this time
+they're going on the mission,
+
+17
+00:00:35,669 --> 00:00:36,902
+So we can contain them.
+
+18
+00:00:36,904 --> 00:00:38,904
+Well, unless the mission
+is a softball game
+
+19
+00:00:38,906 --> 00:00:41,707
+Against
+gary's olde town tavern--
+no, it's--
+
+20
+00:00:41,709 --> 00:00:43,242
+In which case
+I nominate ray pitcher.
+
+21
+00:00:43,244 --> 00:00:45,577
+You know what?
+Not because it's black.
+
+22
+00:00:45,579 --> 00:00:49,214
+You know what?
+Lana, he's the one ashamed
+of his hand's heritage, not me.
+
+23
+00:00:49,216 --> 00:00:52,251
+I'm not ashamed.
+[crying]
+
+24
+00:00:52,253 --> 00:00:54,086
+[cheryl/carol]
+psst, hey.
+
+25
+00:00:54,088 --> 00:00:56,155
+C-c-call me.
+
+26
+00:00:56,157 --> 00:00:58,223
+Ooh, a little
+"handingo" action.
+
+27
+00:00:58,225 --> 00:00:59,591
+[holly]
+ahem.
+
+28
+00:00:59,593 --> 00:01:01,593
+Time is a bit
+of a factor here,
+
+29
+00:01:01,595 --> 00:01:03,896
+So as much as I'd like to spend
+the day murdering all of you,
+
+30
+00:01:03,898 --> 00:01:05,097
+I'm afraid
+we need to press on.
+
+31
+00:01:05,099 --> 00:01:08,033
+To wit,
+this is dr. Zoltan kovacs.
+
+32
+00:01:08,035 --> 00:01:09,768
+Last night
+in paris, someone--
+
+33
+00:01:09,770 --> 00:01:12,237
+We suspect the russians--
+attempted to abduct him.
+
+34
+00:01:12,239 --> 00:01:14,673
+A high-speed chase
+ended in a crash,
+
+35
+00:01:14,675 --> 00:01:16,108
+Which left him
+in a coma
+
+36
+00:01:16,110 --> 00:01:17,743
+With a blood clot
+in his brain.
+
+37
+00:01:17,745 --> 00:01:19,578
+Which matters because?
+
+38
+00:01:19,580 --> 00:01:21,747
+Because since defecting
+to the west 20 years ago,
+
+39
+00:01:21,749 --> 00:01:24,750
+Dr. Kovacs has been
+developing a top-secret process
+
+40
+00:01:24,752 --> 00:01:26,351
+For molecular miniaturization.
+
+41
+00:01:26,353 --> 00:01:28,087
+[chuckles]
+aren't they already
+pretty small?
+
+42
+00:01:28,089 --> 00:01:30,722
+It doesn't
+miniaturize molecules.
+
+43
+00:01:30,724 --> 00:01:32,591
+The process can
+miniaturize anything
+
+44
+00:01:32,593 --> 00:01:34,059
+Down to sub-microscopic size--
+
+45
+00:01:34,061 --> 00:01:36,929
+Robotics, computers,
+video cameras, vehicles,
+
+46
+00:01:36,931 --> 00:01:38,197
+Even human beings.
+
+47
+00:01:38,199 --> 00:01:40,099
+But--
+[krieger]
+you maniacs!
+
+48
+00:01:40,101 --> 00:01:43,102
+You stole it!
+You stole my idea!
+
+49
+00:01:43,104 --> 00:01:44,703
+[overlapping responses]
+
+50
+00:01:44,705 --> 00:01:47,072
+I've been working
+on miniaturization for years,
+
+51
+00:01:47,074 --> 00:01:48,273
+Damn you, years!
+
+52
+00:01:48,275 --> 00:01:50,576
+Krieger,
+those were shrinky dinks.
+
+53
+00:01:50,578 --> 00:01:53,245
+[sobbing]
+it's the same principle!
+[sighs]
+
+54
+00:01:53,247 --> 00:01:55,948
+It is absolutely not
+the same principle.
+
+55
+00:01:55,950 --> 00:01:58,750
+Well [sniffs]
+then I've wasted my life.
+
+56
+00:01:58,752 --> 00:02:00,586
+And all
+of my good markers.
+
+57
+00:02:00,588 --> 00:02:04,623
+But how does it work,
+this... Process?
+
+58
+00:02:04,625 --> 00:02:06,258
+You'll be given
+a cursory explanation
+
+59
+00:02:06,260 --> 00:02:09,094
+At the cia laboratory
+in new mexico.
+Why?
+
+60
+00:02:09,096 --> 00:02:10,996
+Well, I assume they needed
+a large building
+
+61
+00:02:10,998 --> 00:02:13,232
+In a remote location
+with plenty of parking,
+
+62
+00:02:13,234 --> 00:02:15,601
+And real estate is a lot
+cheaper out in the desert.
+
+63
+00:02:15,603 --> 00:02:17,836
+No, not why is the lab
+in new mexico.
+
+64
+00:02:17,838 --> 00:02:19,104
+Why are you
+going to tell us
+
+65
+00:02:19,106 --> 00:02:21,607
+How this super
+top-secret shrink ray works?
+
+66
+00:02:21,609 --> 00:02:24,343
+Because
+in less than 14 hours,
+
+67
+00:02:24,345 --> 00:02:26,145
+You're all going
+to be miniaturized
+
+68
+00:02:26,147 --> 00:02:30,682
+Down to the size of bacteria
+and injected into dr. Kovacs.
+
+69
+00:02:30,684 --> 00:02:32,751
+[overlapping response]
+
+70
+00:02:32,753 --> 00:02:35,320
+What if we don't consent
+to be dr. Shrinkered?
+
+71
+00:02:35,322 --> 00:02:37,189
+Well there's a carrot
+and a stick here,
+
+72
+00:02:37,191 --> 00:02:39,591
+The carrot being
+an one-time payment
+
+73
+00:02:39,593 --> 00:02:40,959
+Of $1,000,000 each.
+
+74
+00:02:40,961 --> 00:02:42,628
+[overlapping agreements]
+
+75
+00:02:42,630 --> 00:02:43,929
+And the stick?
+
+76
+00:02:43,931 --> 00:02:47,266
+The stick is this
+is your last chance.
+
+77
+00:02:47,268 --> 00:02:48,967
+You people have
+bungled every assignment
+
+78
+00:02:48,969 --> 00:02:52,271
+The cia has given you, so if you
+refuse or fail this mission,
+
+79
+00:02:52,273 --> 00:02:54,806
+I will personally ensure
+that none of you
+
+80
+00:02:54,808 --> 00:02:57,176
+Ever works
+in espionage again.
+
+81
+00:02:57,178 --> 00:02:58,610
+[overlapping disagreement]
+I'm just an assistant.
+
+82
+00:02:58,612 --> 00:02:59,845
+No likey.
+
+83
+00:02:59,847 --> 00:03:01,647
+Well it's normally
+the other way around,
+
+84
+00:03:01,649 --> 00:03:03,615
+But this time,
+I think I definitely
+
+85
+00:03:03,617 --> 00:03:05,150
+Prefer the carrot.
+
+86
+00:03:05,152 --> 00:03:07,719
+Not dick,
+pam, stick.
+
+87
+00:03:07,721 --> 00:03:09,555
+Carrot and stick.
+
+88
+00:03:09,557 --> 00:03:10,956
+Yeah, I know.
+
+89
+00:03:12,025 --> 00:03:13,625
+<i>♪ [theme]</i>
+
+90
+00:03:17,130 --> 00:03:18,297
+<i>♪</i>
+
+91
+00:03:56,502 --> 00:03:58,437
+[holly]
+okay people, listen up.
+
+92
+00:03:58,439 --> 00:04:01,106
+We've got an enormous amount
+of information to cover
+
+93
+00:04:01,108 --> 00:04:02,541
+In a very short time
+in which to do it,
+
+94
+00:04:02,543 --> 00:04:05,010
+So your undivided attention
+is of the utmost--
+
+95
+00:04:05,012 --> 00:04:06,712
+Mr. Figgis,
+may I help you?
+
+96
+00:04:06,714 --> 00:04:09,281
+Yeah, is there any reason
+why you can't
+
+97
+00:04:09,283 --> 00:04:12,217
+Just do regular brain surgery
+without a shrink ray?
+
+98
+00:04:12,219 --> 00:04:13,518
+Yes, there is.
+
+99
+00:04:13,520 --> 00:04:16,188
+And, mr. Archer,
+may I help you?
+
+100
+00:04:16,190 --> 00:04:19,191
+[buzzes]
+yeah, why the hell
+would this guy
+
+101
+00:04:19,193 --> 00:04:21,460
+Have an oil can in his--
+elbow grease.
+
+102
+00:04:21,462 --> 00:04:24,296
+[chuckles]
+wow, it's pun
+for the whole family.
+
+103
+00:04:24,298 --> 00:04:25,631
+[overlapping yelling]
+that's racist!
+
+104
+00:04:25,633 --> 00:04:26,965
+You know what
+I don't have time for?
+
+105
+00:04:26,967 --> 00:04:28,634
+Mm, shopping for clothes?
+
+106
+00:04:28,636 --> 00:04:30,636
+Your particular brand
+of bullshit.
+
+107
+00:04:30,638 --> 00:04:32,638
+I was trying
+to familiarize myself
+
+108
+00:04:32,640 --> 00:04:34,539
+With the human body, slater.
+
+109
+00:04:34,541 --> 00:04:36,141
+Yeah, you know
+what this is?
+
+110
+00:04:36,143 --> 00:04:37,976
+Your best gal?
+You son of a--
+
+111
+00:04:37,978 --> 00:04:39,144
+[holly]
+slater!
+
+112
+00:04:39,146 --> 00:04:42,748
+We do not have time
+for this.
+
+113
+00:04:42,750 --> 00:04:46,084
+After this is over,
+you and me.
+
+114
+00:04:46,086 --> 00:04:48,220
+Boop.
+
+115
+00:04:48,222 --> 00:04:51,156
+Why do you
+constantly antagonize him?
+
+116
+00:04:51,158 --> 00:04:54,092
+I-- oh my god,
+cyril, are you jealous?
+
+117
+00:04:54,094 --> 00:04:56,261
+No, I'm--
+I'm going to make it
+up to you, buddy.
+
+118
+00:04:56,263 --> 00:04:58,096
+Oh please don't.
+[holly]
+archer!
+
+119
+00:04:58,098 --> 00:05:00,732
+If you're done trying to win
+votes for class clown--
+
+120
+00:05:00,734 --> 00:05:02,501
+More like most handsome.
+
+121
+00:05:02,503 --> 00:05:04,503
+I was voted best milker.
+Me too.
+
+122
+00:05:04,505 --> 00:05:05,637
+[all]
+ew.
+
+123
+00:05:05,639 --> 00:05:07,272
+Please direct
+your attention
+
+124
+00:05:07,274 --> 00:05:10,475
+To dr. Kovacs' assistant,
+dr. Sklodowska.
+
+125
+00:05:10,477 --> 00:05:13,078
+It's sk-wuh-doh-fska.
+I'm sorry. What'd I say?
+
+126
+00:05:13,080 --> 00:05:14,313
+I don't know.
+Something else.
+
+127
+00:05:14,315 --> 00:05:15,981
+Welcome, all of you,
+
+128
+00:05:15,983 --> 00:05:18,283
+And thank you for volunteering
+for this mission.
+
+129
+00:05:18,285 --> 00:05:19,985
+Albeit
+under threat of death.
+
+130
+00:05:19,987 --> 00:05:21,687
+Due to boredom.
+Come on.
+
+131
+00:05:21,689 --> 00:05:24,022
+Let's get
+shrunked up already.
+
+132
+00:05:24,024 --> 00:05:25,524
+First we need
+to cover some basics.
+
+133
+00:05:25,526 --> 00:05:27,426
+Now as you may
+or may not know,
+
+134
+00:05:27,428 --> 00:05:29,594
+Dr. Kovacs and I
+are lovers.
+
+135
+00:05:29,596 --> 00:05:31,630
+If that is shocking to you,
+so be it.
+
+136
+00:05:31,632 --> 00:05:33,498
+[overlapping support]
+that's not
+shocking at all.
+
+137
+00:05:33,500 --> 00:05:35,534
+This is dr. Kovacs' brain,
+
+138
+00:05:35,536 --> 00:05:38,503
+Home to the greatest mind
+in the history of mankind,
+
+139
+00:05:38,505 --> 00:05:40,138
+If not the universe.
+
+140
+00:05:40,140 --> 00:05:41,673
+This is the blood clot
+that threatens
+
+141
+00:05:41,675 --> 00:05:43,342
+To destroy that brain.
+
+142
+00:05:43,344 --> 00:05:46,511
+But we will destroy the clot
+with the nereus.
+
+143
+00:05:46,513 --> 00:05:48,513
+Dibs on captain.
+Dibs on driving.
+
+144
+00:05:48,515 --> 00:05:50,048
+You have dibs on neither.
+
+145
+00:05:50,050 --> 00:05:52,117
+Mr. Gillette,
+who is a licensed pilot,
+
+146
+00:05:52,119 --> 00:05:53,652
+Will be piloting
+the nereus.
+
+147
+00:05:53,654 --> 00:05:55,687
+Oh so I'm good enough
+to drive y'all around?
+
+148
+00:05:55,689 --> 00:05:57,189
+Great.
+Maybe on the way,
+
+149
+00:05:57,191 --> 00:05:59,191
+We can stop off down
+the piggly wiggly.
+
+150
+00:05:59,193 --> 00:06:00,659
+When this is over,
+
+151
+00:06:00,661 --> 00:06:02,561
+I really think you and I
+should have a nice, long talk.
+
+152
+00:06:02,563 --> 00:06:04,329
+I'm sorry.
+Am I forgetting my place?
+
+153
+00:06:04,331 --> 00:06:05,997
+Little bit.
+
+154
+00:06:05,999 --> 00:06:08,467
+After being miniaturized,
+the nereus and its crew will--
+
+155
+00:06:08,469 --> 00:06:10,535
+[scoffs]
+yes, mr. Archer?
+
+156
+00:06:10,537 --> 00:06:12,671
+Yeah, I think I should
+at least be co-captain.
+
+157
+00:06:12,673 --> 00:06:14,172
+I've had astronaut training.
+
+158
+00:06:14,174 --> 00:06:17,008
+So what? So did I.
+So did most of us.
+
+159
+00:06:17,010 --> 00:06:18,510
+Yeah,
+but you sucked at it.
+
+160
+00:06:18,512 --> 00:06:20,645
+You kept puking
+your guts out on the--
+[retches]
+
+161
+00:06:20,647 --> 00:06:22,013
+The--
+don't say it.
+
+162
+00:06:22,015 --> 00:06:24,149
+[chuckling]
+the vomit comet.
+
+163
+00:06:24,151 --> 00:06:26,752
+But I kicked total ass
+in zero gravity,
+
+164
+00:06:26,754 --> 00:06:28,353
+So I think
+I should be in charge.
+
+165
+00:06:28,355 --> 00:06:29,721
+What the hell
+are you talking about?
+
+166
+00:06:29,723 --> 00:06:32,023
+I know how to do it--
+be weightless.
+
+167
+00:06:32,025 --> 00:06:35,026
+So?
+So when we're floating around
+in this kovacs guy,
+
+168
+00:06:35,028 --> 00:06:36,328
+In the submarine--
+
+169
+00:06:36,330 --> 00:06:38,196
+Have you ever seen
+a submarine movie?
+
+170
+00:06:38,198 --> 00:06:41,099
+[chuckles] oh my god,
+<i>operation petticoat,</i>
+
+171
+00:06:41,101 --> 00:06:43,001
+<i>Das boot,</i>
+<i>the enemy below,</i>
+
+172
+00:06:43,003 --> 00:06:46,071
+<i>Run silent, run deep,</i>
+<i>gray lady down--</i>
+
+173
+00:06:46,073 --> 00:06:48,373
+Ooh,  <i>yellow sub--</i>
+<i>yellow submarine, </i> yes!
+
+174
+00:06:48,375 --> 00:06:50,709
+Wow, there's so many
+submarine movies.
+
+175
+00:06:50,711 --> 00:06:53,612
+And in any of them
+was anyone on board
+
+176
+00:06:53,614 --> 00:06:56,281
+Any submarine weightless?
+
+177
+00:06:56,283 --> 00:06:58,417
+[overlapping dawning]
+...Fat joke?
+
+178
+00:06:58,419 --> 00:07:00,719
+Yeah, plus that time
+we were all on a submarine
+
+179
+00:07:00,721 --> 00:07:02,587
+And were not weightless?
+
+180
+00:07:02,589 --> 00:07:06,191
+Oh, right. Uh, but this time
+we're gonna be tiny.
+
+181
+00:07:06,193 --> 00:07:07,359
+[dr. Sklodowska]
+ahem.
+
+182
+00:07:07,361 --> 00:07:09,561
+After being miniaturized,
+the nereus,
+
+183
+00:07:09,563 --> 00:07:11,062
+With the mission team
+on board,
+
+184
+00:07:11,064 --> 00:07:13,565
+Will be injected
+into dr. Kovacs here,
+
+185
+00:07:13,567 --> 00:07:15,700
+As close to the blood clot
+as possible.
+
+186
+00:07:15,702 --> 00:07:18,970
+This is because we only
+have exactly 60 minutes
+
+187
+00:07:18,972 --> 00:07:22,040
+Before the process wears off
+and we revert to normal size.
+
+188
+00:07:22,042 --> 00:07:23,608
+Sixty minutes exactly?
+
+189
+00:07:23,610 --> 00:07:25,610
+Yes, I feel like
+I was very clear on that.
+
+190
+00:07:25,612 --> 00:07:27,712
+Our progress will be
+tracked in real time
+
+191
+00:07:27,714 --> 00:07:29,648
+On a 3-d map
+of the human body--
+ta-da!
+
+192
+00:07:29,650 --> 00:07:31,049
+[overlapping disgust]
+
+193
+00:07:31,051 --> 00:07:32,717
+Oh my god,
+slim goodbody.
+
+194
+00:07:32,719 --> 00:07:35,253
+No!
+No, this is absolutely not
+
+195
+00:07:35,255 --> 00:07:36,655
+That trademark character.
+
+196
+00:07:36,657 --> 00:07:39,458
+This is--
+michael?
+[scoffs] oh my god.
+
+197
+00:07:39,460 --> 00:07:43,595
+Just a unitard with the systems
+of the human body on it.
+
+198
+00:07:43,597 --> 00:07:46,431
+On a guy.
+On a guy named
+tv's michael gray.
+
+199
+00:07:46,433 --> 00:07:47,999
+What?
+[clamoring]
+
+200
+00:07:48,001 --> 00:07:49,501
+Earballs! Jesus!
+
+201
+00:07:49,503 --> 00:07:51,770
+I see I have some
+fans in the audience.
+
+202
+00:07:51,772 --> 00:07:54,072
+[chuckles]
+are you kidding?
+Are you?
+
+203
+00:07:54,074 --> 00:07:56,107
+Lana,
+it's tv's michael gray.
+
+204
+00:07:56,109 --> 00:07:58,610
+Billy batson,
+from  <i>the shazam/isis hour?</i>
+
+205
+00:07:58,612 --> 00:08:00,412
+Well,
+and  <i>the brian keith show.</i>
+
+206
+00:08:00,414 --> 00:08:02,981
+Obviously
+in     <i>the brian keith show.</i>
+
+207
+00:08:02,983 --> 00:08:06,017
+Who is brian keith?
+Now you're just
+trying to piss me off.
+
+208
+00:08:06,019 --> 00:08:08,153
+So what's up?
+W-what have you been doing?
+
+209
+00:08:08,155 --> 00:08:10,322
+As you see,
+my good sir.
+
+210
+00:08:10,324 --> 00:08:12,491
+Cia puppet shows?
+
+211
+00:08:12,493 --> 00:08:15,160
+Act-ting,
+you philistine.
+
+212
+00:08:15,162 --> 00:08:18,029
+Michael, what
+are you doing here?
+I--
+
+213
+00:08:18,031 --> 00:08:20,098
+How did he
+even get on the base?
+
+214
+00:08:20,100 --> 00:08:21,166
+He said he knew you.
+
+215
+00:08:21,168 --> 00:08:23,001
+You let
+an unauthorized civilian
+
+216
+00:08:23,003 --> 00:08:26,004
+Onto a cia black site
+just because he said he knew me?
+
+217
+00:08:26,006 --> 00:08:28,440
+Well plus,
+he is tv's michael gray.
+
+218
+00:08:28,442 --> 00:08:30,775
+[chuckles]
+and as you may or may not know,
+
+219
+00:08:30,777 --> 00:08:32,644
+Tv's michael gray
+and I were lovers.
+
+220
+00:08:32,646 --> 00:08:34,513
+If that is shocking to you,
+so be it.
+
+221
+00:08:34,515 --> 00:08:36,147
+[overlapping disagreement]
+I get it.
+
+222
+00:08:36,149 --> 00:08:37,983
+I think maybe
+you're confusing
+
+223
+00:08:37,985 --> 00:08:40,151
+The word,
+"shocking" with the word--
+this!
+
+224
+00:08:40,153 --> 00:08:43,021
+This is shocking!
+No, that's just gross.
+
+225
+00:08:43,023 --> 00:08:45,123
+Which is also the word
+I think you're looking for
+
+226
+00:08:45,125 --> 00:08:46,191
+With your old man fetish.
+
+227
+00:08:46,193 --> 00:08:48,159
+Aw come on,
+they're not so--
+
+228
+00:08:48,161 --> 00:08:50,328
+That one
+doesn't even have skin!
+[dr. Sklodowska sighs]
+
+229
+00:08:50,330 --> 00:08:53,498
+Okay if everyone will follow me
+to the miniaturization chamber,
+
+230
+00:08:53,500 --> 00:08:55,166
+We will now begin
+boarding the nereus.
+
+231
+00:08:55,168 --> 00:08:57,002
+Whoa. Wait. Already?
+
+232
+00:08:57,004 --> 00:08:58,737
+Yeah. Shouldn't we learn
+a little more about
+
+233
+00:08:58,739 --> 00:09:00,038
+The mission parameters?
+
+234
+00:09:00,040 --> 00:09:01,573
+Oh you
+absolutely should!
+
+235
+00:09:01,575 --> 00:09:03,341
+But we're behind schedule,
+thanks to--
+
+236
+00:09:03,343 --> 00:09:06,511
+Tv's michael gray.
+[archer]
+whoo!
+
+237
+00:09:06,513 --> 00:09:11,016
+And...
+Scene!
+Yes. We get it, michael.
+
+238
+00:09:11,018 --> 00:09:15,253
+Scene!
+No, you ruined it.
+
+239
+00:09:20,259 --> 00:09:24,329
+<i>[female voice]</i>
+<i>miniaturization</i>
+<i>will begin in 60 minutes.</i>
+
+240
+00:09:24,331 --> 00:09:26,264
+[slater]
+okay people, you heard the lady.
+
+241
+00:09:26,266 --> 00:09:27,866
+We've got no time to lose,
+so here are
+your mission assignments.
+
+242
+00:09:27,868 --> 00:09:29,434
+Archer--
+[archer]
+captain!
+
+243
+00:09:29,436 --> 00:09:31,336
+No you're not.
+Gillette is the pilot,
+
+244
+00:09:31,338 --> 00:09:32,771
+And cyril is the co-pilot.
+
+245
+00:09:32,773 --> 00:09:34,372
+Well we'll see about that.
+
+246
+00:09:34,374 --> 00:09:35,674
+Go see about that.
+
+247
+00:09:35,676 --> 00:09:37,442
+Okay. Pam and crazy glue,
+
+248
+00:09:37,444 --> 00:09:39,444
+Your job is to stay out
+of everybody's way,
+
+249
+00:09:39,446 --> 00:09:41,413
+So maybe go do that
+in the rear.
+
+250
+00:09:41,415 --> 00:09:42,914
+[scoffs]
+what, like, butt-sex?
+
+251
+00:09:42,916 --> 00:09:46,051
+Of the ship.
+Well let's keep
+an open mind.
+
+252
+00:09:46,053 --> 00:09:47,686
+And a closed mouth.
+How about that?
+
+253
+00:09:47,688 --> 00:09:49,788
+Mmm.
+Just go.
+
+254
+00:09:49,790 --> 00:09:52,557
+Okay. Lana, you think
+you can help dr. Sklodowska
+
+255
+00:09:52,559 --> 00:09:55,627
+With the navigation?
+Well I did get an a
+in college biology.
+
+256
+00:09:55,629 --> 00:09:58,430
+Oh wow, great.
+So when we're traversing
+
+257
+00:09:58,432 --> 00:10:00,732
+The occipital lobe,
+you'll know what to do
+
+258
+00:10:00,734 --> 00:10:02,400
+If the ship
+is in imminent danger
+
+259
+00:10:02,402 --> 00:10:06,738
+Of phagocytosis
+by polymorphonuclear leukocytes?
+
+260
+00:10:06,740 --> 00:10:08,607
+It actually
+might've been an a-minus.
+
+261
+00:10:08,609 --> 00:10:10,442
+[groans]
+
+262
+00:10:10,444 --> 00:10:12,477
+[slater]
+okay maybe just help
+archer with the laser
+
+263
+00:10:12,479 --> 00:10:14,446
+If he ever gets-- out here.
+[archer]
+ow!
+
+264
+00:10:14,448 --> 00:10:15,947
+You two head up
+to the laser turret
+
+265
+00:10:15,949 --> 00:10:17,449
+And get acquainted with
+that bad boy.
+
+266
+00:10:17,451 --> 00:10:18,617
+[makes laser noises]
+
+267
+00:10:18,619 --> 00:10:19,985
+[archer]
+jesus h. Christ, ray!
+
+268
+00:10:19,987 --> 00:10:21,286
+[krieger]
+speaking of h,
+
+269
+00:10:21,288 --> 00:10:22,787
+Do you see me
+in a sort of
+
+270
+00:10:22,789 --> 00:10:25,624
+Leonard h.
+"bones" mccoy type role, or--
+
+271
+00:10:25,626 --> 00:10:28,059
+[slater] meaning?
+Irascible
+on-board medical officer.
+
+272
+00:10:28,061 --> 00:10:30,762
+Mm yeah,
+I wouldn't say on-board.
+
+273
+00:10:30,764 --> 00:10:32,464
+Oh man!
+
+274
+00:10:32,466 --> 00:10:34,733
+So not only am I not
+going to tiny town,
+
+275
+00:10:34,735 --> 00:10:36,635
+Now I have
+to execute a guy?
+
+276
+00:10:36,637 --> 00:10:37,769
+What are you
+talking about?
+
+277
+00:10:37,771 --> 00:10:39,304
+This big, meaty bastard
+right here.
+
+278
+00:10:39,306 --> 00:10:40,839
+What are we doing,
+lethal injection?
+
+279
+00:10:40,841 --> 00:10:43,308
+Are you--
+this is dr. Kovacs.
+
+280
+00:10:43,310 --> 00:10:45,343
+This is?
+Are you sure?
+
+281
+00:10:45,345 --> 00:10:48,279
+Yes.
+Because even
+a first-year phrenology student
+
+282
+00:10:48,281 --> 00:10:49,748
+Could see that
+this man...
+
+283
+00:10:49,750 --> 00:10:53,518
+Is a cold-blooded murderer.
+
+284
+00:10:53,520 --> 00:10:56,354
+Phrenology?
+Who are you, george combe?
+
+285
+00:10:56,356 --> 00:10:58,023
+[scoffs]
+man, I wish.
+
+286
+00:10:58,025 --> 00:11:00,692
+[archer]
+because now I probably
+have nerve damage.
+
+287
+00:11:01,694 --> 00:11:04,629
+I've decided
+to let ray drive.
+
+288
+00:11:04,631 --> 00:11:07,766
+With his racist
+robot monster hand!
+
+289
+00:11:07,768 --> 00:11:11,536
+Hand, legs, feet.
+I am a monster.
+
+290
+00:11:11,538 --> 00:11:14,806
+Oh now, come on.
+You're not a monster,
+
+291
+00:11:14,808 --> 00:11:16,007
+You're just different.
+
+292
+00:11:16,009 --> 00:11:17,609
+Come on.
+It could be a lot worse.
+
+293
+00:11:17,611 --> 00:11:19,511
+How?
+Well I guess the hand,
+
+294
+00:11:19,513 --> 00:11:22,480
+Or the tissue
+covering the bionic part,
+it would be, I guess.
+
+295
+00:11:22,482 --> 00:11:24,482
+You know, could've come
+from a serial killer.
+
+296
+00:11:24,484 --> 00:11:27,285
+And then one day soon,
+maybe you're shaving,
+
+297
+00:11:27,287 --> 00:11:29,854
+And you find out
+it has a mind of its own.
+
+298
+00:11:29,856 --> 00:11:34,793
+It's a force of pure evil,
+and it starts dragging you out
+into the city at night.
+
+299
+00:11:34,795 --> 00:11:37,862
+Just cats at first.
+But once the hand
+gets a taste for killing,
+
+300
+00:11:37,864 --> 00:11:39,964
+It's only a matter of time
+before you're out there
+
+301
+00:11:39,966 --> 00:11:42,801
+Strangling male prostitutes,
+and then posing them
+
+302
+00:11:42,803 --> 00:11:46,304
+In grotesque and horrific
+parodies of mentos ads.
+
+303
+00:11:46,306 --> 00:11:48,807
+You know,
+the freshmaker.
+
+304
+00:11:49,909 --> 00:11:52,644
+In which case,
+I guess try to remember
+
+305
+00:11:52,646 --> 00:11:54,479
+I was always kind to you.
+
+306
+00:11:54,481 --> 00:11:57,916
+Not always.
+[nervous chuckle]
+
+307
+00:11:57,918 --> 00:12:01,753
+<i>Miniaturization will begin</i>
+<i>in 30 minutes.</i>
+
+308
+00:12:01,755 --> 00:12:03,421
+And besides,
+I don't think ray's hand
+
+309
+00:12:03,423 --> 00:12:04,723
+Is the one that's racist.
+
+310
+00:12:04,725 --> 00:12:06,357
+Shock. Nothing.
+What?
+
+311
+00:12:06,359 --> 00:12:07,859
+[sighs]
+so, listen.
+
+312
+00:12:07,861 --> 00:12:10,361
+I can't.
+I'm swiveling.
+
+313
+00:12:10,363 --> 00:12:11,830
+Yes you can, archer.
+
+314
+00:12:11,832 --> 00:12:13,665
+I need to talk to you
+about something important.
+
+315
+00:12:13,667 --> 00:12:14,899
+Lana,
+what's more important
+
+316
+00:12:14,901 --> 00:12:16,768
+Than blasting
+imaginary womp rats
+
+317
+00:12:16,770 --> 00:12:17,869
+In my imaginary
+
+318
+00:12:17,871 --> 00:12:20,004
+T-16 back home?
+
+319
+00:12:20,006 --> 00:12:21,406
+Your infant daughter.
+
+320
+00:12:21,408 --> 00:12:23,541
+Oh right.
+Sorry. What's up?
+
+321
+00:12:23,543 --> 00:12:27,345
+Well a, this mission
+feels fairly dangerous
+and totally half-cocked.
+
+322
+00:12:27,347 --> 00:12:29,514
+[chuckles]
+that's normally cock aplenty.
+
+323
+00:12:29,516 --> 00:12:31,750
+Shut up.
+And what if kovacs dies,
+
+324
+00:12:31,752 --> 00:12:33,284
+And the cia disavows us,
+
+325
+00:12:33,286 --> 00:12:34,953
+And we're blacklisted
+from intelligence work?
+
+326
+00:12:34,955 --> 00:12:36,588
+I'd have a lot more
+free time?
+
+327
+00:12:36,590 --> 00:12:40,258
+So your entire career,
+your entire personal identity
+
+328
+00:12:40,260 --> 00:12:43,294
+As a spy, gone?
+Maybe I finally learn
+to fly-fish.
+
+329
+00:12:43,296 --> 00:12:45,897
+That's great, archer.
+What if we die?
+
+330
+00:12:45,899 --> 00:12:47,932
+I'd have a lot more
+free time?
+
+331
+00:12:47,934 --> 00:12:50,969
+Well if we do die,
+I just want to reiterate
+
+332
+00:12:50,971 --> 00:12:52,403
+That my parents
+are gonna be
+
+333
+00:12:52,405 --> 00:12:54,773
+A.J.'s legal guardians,
+not malory.
+
+334
+00:12:54,775 --> 00:12:56,875
+[sighs]
+okay. A, you've made that
+
+335
+00:12:56,877 --> 00:12:58,810
+Hurtfully clear
+about a jillion times.
+
+336
+00:12:58,812 --> 00:13:02,981
+B, ava jean could do
+a lot worse for a guardian.
+
+337
+00:13:02,983 --> 00:13:04,048
+Really?
+
+338
+00:13:04,984 --> 00:13:06,918
+[babbles]
+jesus christ!
+
+339
+00:13:06,920 --> 00:13:08,953
+I-I'm sorry.
+I didn't see the child.
+
+340
+00:13:08,955 --> 00:13:11,923
+Hmm? Oh she's fine.
+She's used to it.
+
+341
+00:13:11,925 --> 00:13:12,957
+Really?
+
+342
+00:13:12,959 --> 00:13:15,059
+"then the mama bear said,
+
+343
+00:13:15,061 --> 00:13:18,296
+"'well somebody's been
+eating my porridge.'
+
+344
+00:13:18,298 --> 00:13:21,833
+And then the baby bear said--"
+are you out
+of your goddamn mind?
+
+345
+00:13:21,835 --> 00:13:23,001
+What?
+What?
+
+346
+00:13:23,003 --> 00:13:24,903
+I just had
+the drapes cleaned!
+
+347
+00:13:24,905 --> 00:13:27,005
+And then
+papa bear said, "yeah?
+
+348
+00:13:27,007 --> 00:13:29,507
+"you just keep it up
+because this town is crawling
+
+349
+00:13:29,509 --> 00:13:31,442
+"with goldilockses
+with hot, young bodies
+
+350
+00:13:31,444 --> 00:13:33,278
+And daddy issues."
+
+351
+00:13:33,280 --> 00:13:36,748
+[babbles]
+exactly. Like
+what's-her-face at work.
+
+352
+00:13:36,750 --> 00:13:37,782
+[chuckles]
+
+353
+00:13:37,784 --> 00:13:39,784
+Debbie, yeah.
+[babbles]
+
+354
+00:13:39,786 --> 00:13:41,619
+And as far
+as I'm concerned,
+
+355
+00:13:41,621 --> 00:13:43,855
+The sooner she learns
+about cigarettes, the better.
+
+356
+00:13:43,857 --> 00:13:47,292
+This little pudge-pop's going
+to need all the help she can get
+
+357
+00:13:47,294 --> 00:13:49,828
+In the battle of the bulge.
+[babbles]
+
+358
+00:13:49,830 --> 00:13:53,631
+And c, even if, god forbid
+something happens to you,
+
+359
+00:13:53,633 --> 00:13:54,866
+I'm gonna be fine.
+
+360
+00:13:54,868 --> 00:13:57,035
+So if, say,
+there's a malfunction
+
+361
+00:13:57,037 --> 00:13:58,803
+With the shrink ray
+and the ship,
+
+362
+00:13:58,805 --> 00:14:00,805
+And everything in it
+gets vaporized?
+
+363
+00:14:00,807 --> 00:14:02,607
+I'd just jump out
+at the last second.
+
+364
+00:14:02,609 --> 00:14:04,542
+While every single
+atom and molecule
+
+365
+00:14:04,544 --> 00:14:06,444
+In your body
+is being destroyed?
+
+366
+00:14:06,446 --> 00:14:09,314
+Uh, no. I already jumped out.
+It's this new
+
+367
+00:14:09,316 --> 00:14:11,683
+Thing called
+cat-like reflexes.
+
+368
+00:14:11,685 --> 00:14:13,484
+So can you seriously
+not even grasp
+
+369
+00:14:13,486 --> 00:14:14,986
+The concept
+of your own mortality?
+
+370
+00:14:14,988 --> 00:14:17,822
+Lana, nobody can.
+Really?
+
+371
+00:14:17,824 --> 00:14:20,024
+Except maybe bears.
+[scoffs]
+
+372
+00:14:20,026 --> 00:14:22,994
+So will you do everyone a favor
+and relax for once?
+
+373
+00:14:22,996 --> 00:14:24,896
+Nothing bad's gonna--
+[both yelps]
+
+374
+00:14:24,898 --> 00:14:26,297
+[electricity
+buzzing, thundering]
+
+375
+00:14:26,299 --> 00:14:28,533
+[moans]
+[archer]
+sorry, gang!
+
+376
+00:14:28,535 --> 00:14:30,468
+My bad.
+That was on me.
+
+377
+00:14:30,470 --> 00:14:32,370
+Hey, somebody roll
+that guy around.
+
+378
+00:14:32,372 --> 00:14:33,972
+He's...Smoldering.
+
+379
+00:14:33,974 --> 00:14:35,473
+<i>Miniaturization in...</i>
+
+380
+00:14:35,475 --> 00:14:37,408
+You were saying?
+I don't know.
+
+381
+00:14:37,410 --> 00:14:38,977
+<i>Ten minutes.</i>
+
+382
+00:14:38,979 --> 00:14:40,778
+Probably something
+about paris.
+
+383
+00:14:46,218 --> 00:14:49,854
+<i>Miniaturization</i>
+<i>in five minutes.</i>
+
+384
+00:14:49,856 --> 00:14:51,189
+[dr. Sklodowska]
+roger that, mission control.
+
+385
+00:14:51,191 --> 00:14:52,857
+Navigation systems
+are online.
+
+386
+00:14:52,859 --> 00:14:55,093
+We are ready
+for miniaturization process.
+
+387
+00:14:55,095 --> 00:14:56,327
+<i>[slater]</i>
+<i>copy that, navigation.</i>
+
+388
+00:14:56,329 --> 00:14:57,896
+Bridge is online
+and we are ready
+
+389
+00:14:57,898 --> 00:14:59,364
+For
+miniaturization process, over.
+
+390
+00:14:59,366 --> 00:15:01,065
+Said your dick.
+
+391
+00:15:01,067 --> 00:15:03,067
+<i>That would mean</i>
+<i>it's too big, dummy,</i>
+
+392
+00:15:03,069 --> 00:15:05,036
+<i>And so it's ready</i>
+<i>to be made smaller.</i>
+
+393
+00:15:05,038 --> 00:15:06,771
+Damn it.
+
+394
+00:15:06,773 --> 00:15:09,007
+Turret, are you ready to begin
+miniaturization? Over.
+
+395
+00:15:09,009 --> 00:15:10,708
+Yes, if--
+
+396
+00:15:10,710 --> 00:15:11,910
+Lana, you good?
+
+397
+00:15:13,379 --> 00:15:16,080
+Yes.
+We'll be fine, all right?
+
+398
+00:15:16,082 --> 00:15:17,448
+A.J. Will be fine.
+
+399
+00:15:17,450 --> 00:15:21,185
+Just remember
+what we talked about.
+
+400
+00:15:21,187 --> 00:15:23,087
+You already forgot.
+
+401
+00:15:23,089 --> 00:15:25,189
+[chuckles]
+bears. Turret ready.
+
+402
+00:15:25,191 --> 00:15:27,692
+Roger that, stupid.
+You guys ready to make history?
+
+403
+00:15:27,694 --> 00:15:29,127
+I'm ready to make
+a million dollars.
+
+404
+00:15:29,129 --> 00:15:31,963
+Close enough.
+Okay, let's light this candle.
+
+405
+00:15:31,965 --> 00:15:34,365
+What are you doing?
+
+406
+00:15:34,367 --> 00:15:37,402
+He said light the candle.
+Not an ear candle!
+
+407
+00:15:37,404 --> 00:15:40,071
+Well you won't bleed him,
+you won't cup him,
+
+408
+00:15:40,073 --> 00:15:42,907
+You won't divine his humors.
+For all you charlatans know,
+
+409
+00:15:42,909 --> 00:15:46,077
+This poor man is both
+phlegmatic and bilious.
+
+410
+00:15:46,079 --> 00:15:47,946
+Get out.
+Gladly.
+
+411
+00:15:49,715 --> 00:15:52,984
+So, hey, do I need
+to swipe a keycard, or--
+
+412
+00:15:52,986 --> 00:15:57,288
+Ow!
+Paging dr. Dickwads.
+
+413
+00:15:57,290 --> 00:15:58,856
+[alarm blaring]
+
+414
+00:16:01,093 --> 00:16:02,393
+<i>All clear.</i>
+
+415
+00:16:02,395 --> 00:16:04,762
+<i>Commence</i>
+<i>initialization sequence.</i>
+
+416
+00:16:04,764 --> 00:16:05,964
+<i>All clear.</i>
+
+417
+00:16:05,966 --> 00:16:07,332
+[blaring continues]
+
+418
+00:16:09,735 --> 00:16:11,302
+<i>[dr. Sklodowska]</i>
+<i>mission control,</i>
+<i>this is nereus.</i>
+
+419
+00:16:11,304 --> 00:16:13,137
+We are ready
+for miniaturization, over.
+
+420
+00:16:13,139 --> 00:16:16,074
+Speak for yourself,
+holy shrink-snacks.
+
+421
+00:16:16,076 --> 00:16:18,109
+Yeah, this
+is kind of terrifying.
+
+422
+00:16:18,111 --> 00:16:20,178
+So why are you messing around
+with this crazy shrink ray?
+
+423
+00:16:20,180 --> 00:16:22,013
+It's not like
+you need a million bucks.
+
+424
+00:16:22,015 --> 00:16:25,450
+Wh-- are you kidding?
+It's not about the money.
+
+425
+00:16:25,452 --> 00:16:28,820
+Pam, we are going on a voyage
+of medical discovery
+
+426
+00:16:28,822 --> 00:16:31,689
+Unparalleled in not only
+the history of mankind,
+
+427
+00:16:31,691 --> 00:16:33,925
+But also, perhaps,
+its future.
+
+428
+00:16:33,927 --> 00:16:35,860
+Hippocrates, galen,
+
+429
+00:16:35,862 --> 00:16:37,362
+Percival, sharp.
+
+430
+00:16:37,364 --> 00:16:39,964
+For thousands of years,
+physicians have dreamed
+
+431
+00:16:39,966 --> 00:16:41,299
+Of having the power to see
+
+432
+00:16:41,301 --> 00:16:43,167
+What we've been given
+the chance to
+
+433
+00:16:43,169 --> 00:16:46,671
+Through this truly awe-inspiring
+process of miniaturization,
+
+434
+00:16:46,673 --> 00:16:48,172
+Which I think
+you'll agree,
+
+435
+00:16:48,174 --> 00:16:51,175
+Is the very embodiment
+of arthur c. Clarke's third law,
+
+436
+00:16:51,177 --> 00:16:54,679
+Which states that any
+sufficiently advanced technology
+
+437
+00:16:54,681 --> 00:16:56,681
+Is indistinguishable
+from magic.
+
+438
+00:16:56,683 --> 00:17:00,318
+Or,
+if you like, a miracle.
+
+439
+00:17:00,320 --> 00:17:03,321
+I--
+plus I'm going to use
+the money to buy an orphanage,
+
+440
+00:17:03,323 --> 00:17:05,690
+And then bulldoze it.
+Why?
+
+441
+00:17:05,692 --> 00:17:08,159
+Shits and grins
+and screams.
+
+442
+00:17:08,161 --> 00:17:11,996
+Wah, porridge,
+wah, aah!
+
+443
+00:17:11,998 --> 00:17:13,197
+[evil laugh]
+
+444
+00:17:13,199 --> 00:17:15,033
+Well maybe she'll die.
+
+445
+00:17:15,035 --> 00:17:17,702
+<i>Commence miniaturization</i>
+<i>in ten...</i>
+
+446
+00:17:17,704 --> 00:17:18,703
+[breathing exercises]
+
+447
+00:17:18,705 --> 00:17:19,904
+<i>Nine... Eight...</i>
+
+448
+00:17:19,906 --> 00:17:21,205
+Lana?
+
+449
+00:17:21,207 --> 00:17:23,207
+<i>Seven... Six...</i>
+<i>Lana, calm down.</i>
+
+450
+00:17:23,209 --> 00:17:25,410
+<i>Five... Four...</i>
+<i>You're making me</i>
+<i>really hard.</i>
+
+451
+00:17:25,412 --> 00:17:27,678
+<i>Three... Two...</i>
+<i>Goddamn, dude.</i>
+
+452
+00:17:27,680 --> 00:17:28,746
+<i>One.</i>
+
+453
+00:17:31,984 --> 00:17:33,084
+[all gasping]
+
+454
+00:17:36,255 --> 00:17:37,789
+[nervous laughter]
+
+455
+00:17:40,759 --> 00:17:42,260
+Wait. What happened?
+
+456
+00:17:45,731 --> 00:17:48,332
+It-it's gone.
+Hang on.
+
+457
+00:17:50,769 --> 00:17:52,437
+Mission control
+to nereus, over.
+
+458
+00:17:52,439 --> 00:17:55,206
+<i>[static]</i>
+<i>[slater]</i>
+<i>this is nereus, control.</i>
+
+459
+00:17:55,208 --> 00:17:57,041
+[overlapping cheers]
+how wonderful.
+
+460
+00:17:57,043 --> 00:17:58,876
+Miniaturization complete, over.
+
+461
+00:17:58,878 --> 00:18:00,044
+<i>[archer]</i>
+<i>whoo!</i>
+
+462
+00:18:00,046 --> 00:18:02,413
+Oh my god.
+[clanking]
+
+463
+00:18:02,415 --> 00:18:04,215
+[sighs]
+
+464
+00:18:04,217 --> 00:18:05,883
+[dr. Sklodowska]
+time.
+
+465
+00:18:05,885 --> 00:18:08,853
+Okay, people, we have
+one hour to save dr. Kovacs.
+
+466
+00:18:08,855 --> 00:18:11,389
+And then hopefully
+a lifetime to be with him.
+
+467
+00:18:11,391 --> 00:18:14,192
+Once he leaves hilda.
+
+468
+00:18:14,194 --> 00:18:15,793
+<i>[slater]</i>
+<i>control, I think</i>
+<i>we're ready to start</i>
+
+469
+00:18:15,795 --> 00:18:17,361
+<i>Transport and injection, over.</i>
+
+470
+00:18:17,363 --> 00:18:18,763
+<i>[holly]</i>
+<i>roger that, nereus.</i>
+
+471
+00:18:20,866 --> 00:18:24,235
+So, should we
+be steering, or--
+shh!
+
+472
+00:18:24,237 --> 00:18:27,738
+Okay. Now the submarine
+is in a saline solution
+
+473
+00:18:27,740 --> 00:18:31,109
+In the syringe, which the robot
+will now gently transport
+
+474
+00:18:31,111 --> 00:18:32,743
+Into the surgical theater,
+
+475
+00:18:32,745 --> 00:18:35,246
+Where it will prepare
+to inject the solution
+
+476
+00:18:35,248 --> 00:18:37,048
+Into the cerebrospinal fluid
+
+477
+00:18:37,050 --> 00:18:39,016
+At the base
+of dr. Kovacs' skull.
+
+478
+00:18:40,119 --> 00:18:43,788
+We're not weightless!
+Why not?
+
+479
+00:18:43,790 --> 00:18:45,990
+And since
+we only have...
+
+480
+00:18:45,992 --> 00:18:50,161
+59 minutes-ish until the nereus
+reverts to normal size,
+
+481
+00:18:50,163 --> 00:18:52,430
+It is crucial that
+the injection be as close
+
+482
+00:18:52,432 --> 00:18:54,665
+To the blood clot
+as humanly--
+
+483
+00:18:54,667 --> 00:18:56,834
+Well, robotically possible,
+I guess.
+
+484
+00:18:56,836 --> 00:18:58,669
+We're looking good
+down here, control.
+
+485
+00:18:58,671 --> 00:19:00,138
+All lined up
+on the injection site.
+
+486
+00:19:00,140 --> 00:19:02,306
+<i>Roger that.</i>
+<i>Nereus, are you ready?</i>
+
+487
+00:19:02,308 --> 00:19:06,410
+<i>[clanking]</i>
+<i>[lana] ugh! Yes!</i>
+<i>Let's get this over with!</i>
+
+488
+00:19:06,412 --> 00:19:08,412
+<i>You are a go</i>
+<i>for injection, doctor.</i>
+
+489
+00:19:13,285 --> 00:19:16,254
+<i>[drone doctor]</i>
+<i>preparing to inject.</i>
+<i>[crashing, screaming]</i>
+
+490
+00:19:16,256 --> 00:19:19,023
+So should there
+be screaming?
+
+491
+00:19:19,025 --> 00:19:22,193
+Shh! Control,
+we're hearing some screaming.
+
+492
+00:19:22,195 --> 00:19:25,363
+<i>Which--</i>
+<i>what's the story on that?</i>
+
+493
+00:19:25,365 --> 00:19:28,366
+What in the name
+of sweet jiminy christ
+
+494
+00:19:28,368 --> 00:19:30,101
+Do you think
+you're doing?
+
+495
+00:19:30,103 --> 00:19:32,003
+Standing up
+for myself!
+
+496
+00:19:32,005 --> 00:19:33,838
+Because maybe
+I didn't go to some
+
+497
+00:19:33,840 --> 00:19:36,674
+Fancy-pantsy
+ivy league med school,
+
+498
+00:19:36,676 --> 00:19:39,310
+And maybe I didn't go
+to some other med school,
+
+499
+00:19:39,312 --> 00:19:40,845
+Even the one
+down in grenada,
+
+500
+00:19:40,847 --> 00:19:43,114
+Which was my fallback,
+but whatever.
+
+501
+00:19:43,116 --> 00:19:45,816
+That doesn't give you
+the right to bully me.
+
+502
+00:19:45,818 --> 00:19:47,852
+I have had it!
+
+503
+00:19:47,854 --> 00:19:50,221
+Oh, and by the way,
+
+504
+00:19:50,223 --> 00:19:53,691
+If I was a clone
+of adolf goddamn hitler,
+
+505
+00:19:53,693 --> 00:19:57,195
+Wouldn't I look like
+adolf goddamn hitler?
+
+506
+00:19:57,197 --> 00:19:59,363
+Huh. I never
+thought about that.
+Doctor?
+
+507
+00:19:59,365 --> 00:20:01,332
+What?
+<i>Not you.</i>
+
+508
+00:20:01,334 --> 00:20:03,067
+Doctor, please tell me
+that nereus
+
+509
+00:20:03,069 --> 00:20:04,735
+Was injected into kovacs?
+
+510
+00:20:04,737 --> 00:20:06,337
+It was.
+<i>Whew, okay.</i>
+
+511
+00:20:06,339 --> 00:20:08,039
+<i>So we're still okay.</i>
+
+512
+00:20:08,041 --> 00:20:09,974
+I'm sorry. I should've
+finished that thought.
+
+513
+00:20:09,976 --> 00:20:13,878
+It was injected into dr. Kovacs,
+but not at the injection site.
+
+514
+00:20:13,880 --> 00:20:16,347
+What?
+Well then, where is it?
+
+515
+00:20:16,349 --> 00:20:17,682
+His foot.
+
+516
+00:20:17,684 --> 00:20:20,685
+Wow. Now I feel
+like dr. Dickwads.
+
+517
+00:20:20,687 --> 00:20:23,354
+Krieger, shut up!
+And you, get them out of there.
+
+518
+00:20:23,356 --> 00:20:26,090
+[sighs] we can't.
+They're way too small.
+
+519
+00:20:26,092 --> 00:20:27,425
+They'll just have
+to make it to his tear duct
+
+520
+00:20:27,427 --> 00:20:28,893
+<i>Like we planned.</i>
+
+521
+00:20:28,895 --> 00:20:30,695
+Is there enough time
+to make it to the clot,
+
+522
+00:20:30,697 --> 00:20:32,029
+Laser it,
+and still escape?
+
+523
+00:20:32,031 --> 00:20:34,365
+I mean, it will
+be close, but maybe.
+
+524
+00:20:34,367 --> 00:20:39,203
+Damn it!
+[sighs] so do we tell them?
+
+525
+00:20:39,205 --> 00:20:41,372
+Well they'll find out
+soon enough.
+
+526
+00:20:41,374 --> 00:20:42,907
+And in the meantime,
+
+527
+00:20:42,909 --> 00:20:45,943
+I'm sure sterling
+has everything well in hand.
+
+528
+00:20:45,945 --> 00:20:50,081
+<i>[creaking]</i>
+<i>[archer]</i>
+<i>goddamn it.</i>
+
+529
+00:20:51,216 --> 00:20:52,950
+<i>♪</i>
+
+530
+00:21:10,769 --> 00:21:13,504
+<i>[man]</i>
+<i>made in georgia.</i>
+

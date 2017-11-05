@@ -63,14 +63,6 @@ for(j in 1:length(subtiles_zip)) {
   unzip(subtiles_zip[[j]], exdir = paste0("01_rick_and_morty/subtitles_extraction/",links_all_seasons$file_name[j]), overwrite = F)
 }
 
-# I deleted Rick.and.Morty.S03E07.The Ricklantis Mixup 1080p.iT.WEB-DL.DD5.1.AAC2.0.H.264-lilmighty and 
-# Rick and Morty S01E02 HDTV x264-eng / Rick and Morty S01E02 HDTV x264-eng(4)
-# bc of broken encoding
-
-try(file.remove("01_rick_and_morty/subtitles_extraction/S03_E07_The_Ricklantis_Mixup/Rick.and.Morty.S03E07.The Ricklantis Mixup 1080p.iT.WEB-DL.DD5.1.AAC2.0.H.264-lilmighty.srt"))
-try(file.remove("01_rick_and_morty/subtitles_extraction/S01_E02_Lawnmower_Dog/Rick and Morty S01E02 HDTV x264-eng.srt"))
-try(file.remove("01_rick_and_morty/subtitles_extraction/S01_E02_Lawnmower_Dog/Rick and Morty S01E02 HDTV x264-eng(4).srt"))
-
 subtitles_srt = tibble(sub_location = list.files("01_rick_and_morty/subtitles_extraction/", recursive = T)) %>% 
   mutate(sub_location = paste0("01_rick_and_morty/subtitles_extraction/",sub_location),
          folder = as.character(str_extract_all(sub_location, ".*/")),
@@ -84,6 +76,10 @@ subtitles_srt = tibble(sub_location = list.files("01_rick_and_morty/subtitles_ex
          episode = str_replace_all(substr(episode_name,1,7), ".*_", ""),
          episode_name = str_replace_all(episode_name, "S[0-9][0-9]_E[0-9][0-9]_", ""),
          episode_name = str_replace_all(episode_name, "_", " "))
+
+for(j in 1:nrow(subtitles_srt)) {
+  system(paste0("recode UTF-8 -f \"", subtitles_srt$sub_location[j], "\""))
+}
 
 for(j in 1:nrow(subtitles_srt)) {
   assign(paste(subtitles_srt$season[j],subtitles_srt$episode[j], sep = "_"),
