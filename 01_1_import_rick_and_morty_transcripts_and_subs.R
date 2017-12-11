@@ -1,7 +1,6 @@
 # 1: load packages
 
 if (!require("pacman")) install.packages("pacman")
-#run sudo apt-get install libpoppler-cpp-dev to install pdftools
 p_load(data.table,dplyr,stringr,rvest,janitor)
 p_load_gh("fkeck/subtools")
 
